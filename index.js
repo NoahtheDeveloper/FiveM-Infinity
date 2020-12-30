@@ -251,4 +251,4 @@ client.on('message', async (message) => {
 
 
 
-   client.login('Nzg2MDUzMzM5Nzc0OTc2MDQw.X9AzOA.XHMVDAyMV8ifMzHdjgWLIqPRsGc');
+   client.login('PUT TOKEN HERE');
