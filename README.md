@@ -3,7 +3,8 @@
 > 
 > 
 > 
-> **Commands**
+> **Commands:**
+> 
 > --fxserver
 > --STATS
 > --resources
