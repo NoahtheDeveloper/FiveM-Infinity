@@ -5,10 +5,10 @@
 > 
 > **Commands:**
 > 
-> --fxserver
-> --STATS
-> --resources
-> --search
+> --fxserver (IP)
+> --STATS (IP)
+> --resources (IP)
+> --search (IP)
 > --HELP
 > 
 > ![alt text](https://cdn.discordapp.com/attachments/716014742463840257/786294534807486474/unknown.png)
